@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-time-tracking-react-native",
+  "capabilityKey": "liberusoftware/module-accounting-time-tracking",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-accounting-time-tracking-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/accounting/nextjs/time-tracking.md",
+  "presentationPlan": "projects/accounting/react-native/time-tracking.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
